@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Personal>
+		
+	<Mitarbeiter name = "Tester" vorname ="Darrel"/>
+	<Mitarbeiter name = "User" vorname ="Dümester anzunehmender"/>
+	<Mitarbeiter name = "Schnuffel" vorname ="Kismet"/>
+	
+</Personal>
